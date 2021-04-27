@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Need to clean up this repo first soooo many trash
+
 <!--
 **RiskySaptra/RiskySaptra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
