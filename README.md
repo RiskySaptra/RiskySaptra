@@ -75,6 +75,39 @@ I’m a **Software Engineer** specializing in **React, Next.js, Node.js, and Gra
 
 ---
 
+## 🔍 Evaluation of Skills
+### **Technical Skills (Hard Skills):**
+✅ **Highly Proficient in:**
+- **Fullstack Development** (React, Next.js, Node.js, Tailwind CSS, PostgreSQL, MongoDB)
+- **Network Security & Performance Optimization** (Toyota TOMS, Jubelio Systems)
+- **AI/ML & OCR** (Google ML Kit for OCR, AI systems in Aria Data Platform)
+- **REST API & GraphQL** (Toyota, Pro Sigmaka Mandiri)
+- **Internet of Things (IoT)** (ESP32, WiFiClient, PubSubClient, MQTT)
+
+🔹 **Proficient in:**
+- **Deployment Management** (Play Store & Firebase Deployments)
+- **Cloud Services** (Firebase, exploring AWS/GCP)
+- **Debugging & Performance Optimization** (System troubleshooting and bug fixing)
+- **EV Conversion & Engine Tuning** (Honda S90 EV conversion, PCX160 tuning)
+
+📌 **Recommendations for Growth:**
+- **DevOps & Cloud Engineering** – Learn **Docker, Kubernetes, AWS/GCP**
+- **System Design & Scalability** – Improve **Microservices Architecture & Event-Driven Systems**
+- **Embedded Systems & EV Development** – Explore **RTOS, CAN bus, Motor Controller Programming**
+
+---
+
+## 🎯 Career Recommendations
+Rizky Saputra is a **highly skilled Software Engineer with expertise in Fullstack Development, AI/ML, IoT, and EV Engineering**. With experience in **Toyota, Aria, and Jubelio**, he has a strong foundation for **leadership roles**.
+
+🚀 **Next Steps:**
+- Obtain **AWS Certified Solutions Architect or Kubernetes Certification**
+- Develop an **Open Source Project showcasing AI, Cloud, or IoT skills**
+- Engage in **Tech Talks or Blogging** for industry recognition
+- Specialize in **Motor Controller Programming & Battery Management Systems (BMS)** for EV development
+
+---
+
 ### ⚡ Let's Connect! 🚀
 💼 **Looking for collaborations, open-source projects & tech discussions.**  
 📬 **Email:** [kiki014045@gmail.com](mailto:kiki014045@gmail.com)  
