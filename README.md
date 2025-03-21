@@ -47,8 +47,7 @@ I’m a **Software Engineer** specializing in **React, Next.js, Node.js, and Gra
 
 ---
 
-## 🎓 Education
-📌 **Binus University** – *(In Progress)*, **Bachelor's Degree in Computer Science**  
+## 🎓 Education 
 📌 **Pkbm Bangun Rejo** – **Social Sciences**  
 📌 **DumbWays Indonesia** – **Fullstack JavaScript Developer**  
 
